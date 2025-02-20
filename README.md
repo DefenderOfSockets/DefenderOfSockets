@@ -17,6 +17,3 @@ How to contact me: email [lopukhov.evgeniy.o@gmail.com](mailto:lopukhov.evgeniy.
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
-
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DefenderOfSockets&show_icons=true&theme=tokyonight)
