@@ -1,16 +1,22 @@
 ## Hi there 👋
+I'm a Python Backend Developer, currently looking for work.
+How to contact me: email [lopukhov.evgeniy.o@gmail.com](mailto:lopukhov.evgeniy.o@gmail.com) or [telegram](https://t.me/lopukhov_evgenii)
 
-<!--
-**DefenderOfSockets/DefenderOfSockets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Education: **Master degree in Medical Robotics**
+- Experience: **From 2020 working in laboratory of medical robotics. I'm participating in developing medical systems, medical devices and software for hospitals**
+- Working on: **Travel tracking service**
+- Learning: **Django, aiogram**
+- Fact about me: **Visited more than 20 operations on spine**
+- Achievments: [Articles](https://www.researchgate.net/profile/Evgenii-Olegovich/research), [Patents](https://patents.google.com/?inventor=%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9+%D0%9E%D0%BB%D0%B5%D0%B3%D0%BE%D0%B2%D0%B8%D1%87+%D0%9B%D0%BE%D0%BF%D1%83%D1%85%D0%BE%D0%B2)
 
-Here are some ideas to get you started:
+## My tech stack
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PyQt](https://img.shields.io/badge/-PyQt-41CD52?style=flat&logo=qt&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DefenderOfSockets&show_icons=true&theme=tokyonight)
