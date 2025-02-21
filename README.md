@@ -3,7 +3,10 @@ I'm a Python Backend Developer, currently looking for work.
 How to contact me: email [lopukhov.evgeniy.o@gmail.com](mailto:lopukhov.evgeniy.o@gmail.com) or [telegram](https://t.me/lopukhov_evgenii)
 
 - Education: **Master degree in Medical Robotics**
-- Experience: **From 2020 working in laboratory of medical robotics. I'm participating in developing medical systems, medical devices and software for hospitals**
+- Experience:
+    - **I'm participating in developing medical robotic systems for spinal surgery (robot+navigation+AR)**
+    - **I was created program for data collection, processing and visualization for torque and inertial sensors in spinal fusion (Twisted, PyQt, IoT)**
+    - **Design, build and deploy databases for aggregating, processing and visualizing patient data for multiple surgery hospitals (FastAPI, PostgreSQL, MongoDB)**
 - Working on: **Travel tracking service**
 - Learning: **Django, aiogram**
 - Fact about me: **Visited more than 20 operations on spine**
