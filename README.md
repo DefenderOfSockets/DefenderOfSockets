@@ -13,6 +13,8 @@ How to contact me: email [lopukhov.evgeniy.o@gmail.com](mailto:lopukhov.evgeniy.
 - Fact about me: **Visited more than 20 operations on spine**
 - Achievments: [Articles](https://www.researchgate.net/profile/Evgenii-Olegovich/research), [Patents](https://patents.google.com/?inventor=%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9+%D0%9E%D0%BB%D0%B5%D0%B3%D0%BE%D0%B2%D0%B8%D1%87+%D0%9B%D0%BE%D0%BF%D1%83%D1%85%D0%BE%D0%B2)
 
+My CV: https://defenderofsockets.github.io/cv.github.io/
+
 ## My tech stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
