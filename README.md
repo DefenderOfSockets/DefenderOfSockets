@@ -4,9 +4,9 @@ How to contact me: email [lopukhov.evgeniy.o@gmail.com](mailto:lopukhov.evgeniy.
 
 - Education: **Master degree in Medical Robotics**
 - Experience:
-    - **I'm participating in developing medical robotic systems for spinal surgery (robot, navigation, AR)**
-    - **I was created program for data collection, processing and visualization for torque and inertial sensors in spinal fusion (Network, BLE, Twisted, PyQt, pandas, matplotlib)**
-    - **Design, build and deploy databases for aggregating, processing and visualizing patient data for multiple surgery hospitals (FastAPI, PostgreSQL, MongoDB)**
+    - **Contributing to the development of medical robotic systems for spinal surgery, including robotic assistance, navigation, and augmented reality (AR).**
+    - **Developed a software solution for data collection, processing, and visualization of torque and inertial sensor data in spinal fusion procedures, utilizing networking protocols, BLE, Twisted, PyQt, pandas, and matplotlib.**
+    - **Designed, implemented, and deployed databases for aggregating, processing, and visualizing patient data across multiple surgical hospitals, leveraging FastAPI, PostgreSQL, and MongoDB.**
 - Working on: **AI-Based Health Analysis Dashboard**
 - Learning: **Django, aiogram**
 - Interesting: **Python, Medicine, Robotics, IoT, AI, esp32**
